@@ -1,7 +1,9 @@
 # Setup virtual environment
+```
 cd /path/to/crawl-craftpix
 virtualenv venv
 . venv/bin/activate
+```
 
 Step 1: Installing Google Chrome
 Use the below steps to install the latest Google Chrome browser on Ubuntu and Debian systems.
